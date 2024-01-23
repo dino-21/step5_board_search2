@@ -2,6 +2,9 @@
 ![32](https://github.com/dino-21/step5_board_search/assets/80396471/5baac528-350e-4f8f-aaca-0ceb7ade26aa)
 
 
+
+
+
 1. <select>태그를 이용해서 검색
 
 2. 다중 항목 검색 
